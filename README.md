@@ -1,4 +1,4 @@
-#If you are not familliar with React.js , firstly get familliar , then clone and run application as mentioned below
+##If you are not familliar with React.js , firstly get familliar , then clone and run application as mentioned below
 
 # Getting Started with Create React App
 
